@@ -1,5 +1,5 @@
 {
-  "name": "desperate-housewives-quiz",
+  "name": "tv-quiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +37,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://your-username.github.io/desperate-housewives-quiz"
+  "homepage": "https://bharathna.github.io/tv-quiz"
 }
